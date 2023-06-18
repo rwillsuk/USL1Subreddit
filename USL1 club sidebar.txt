@@ -8,7 +8,7 @@
 |[Charlotte Independence](https://www.charlotteindependence.com/)|[Link](/r/charlotteindependence)|
 |[Chattanooga Red Wolves SC](https://www.chattanoogaredwolves-sc.com/)|[Link](/r/chattredwolves)|
 |[Forward Madison FC](https://www.forwardmadisonfc.com/)|[Link](/r/forwardmadisonfc)|
-|[Greenville Triumph SC](https://www.greenvilletriumph.com/)|[Link](/r/GreenvilleTriumph)|
+|[Greenville Triumph SC](https://www.greenvilletriumph.com/)|[Link](/r/GreenvilleTriumphSC)|
 |[One Knoxville SC](https://www.oneknoxsc.com/)|[Link](/r/OneKnoxSC)|
 |[Lexington SC](https://www.lexsporting.com/)|[Link](/r/LexingtonSportingClub/)|
 |[North Carolina FC](https://www.northcarolinafc.com/)|[Link](/r/northcarolinafc)|
@@ -28,23 +28,22 @@
 **USL League One Standings**
 
 
-***2023 Standings (as of 4/23/2023)***
+***2023 Standings (as of 6/18/2023)***
 
 |**Place**|**Team**|**Pts**|**GP**|
 |:-:|:-:|:-:|:-:|
-|*1st:*|Charlotte Independence|12 Pts|6 GP|
-|*2nd:*|North Carolina FC|10 Pts|5 GP|
-|*3rd:*|South Georgia Tormenta FC|9 Pts|6 GP|
-|*4th:*|Greenville Triumph SC|6 Pts|5 GP|
-|*5th:*|Forward Madison FC|5 Pts|3 GP|
-|*6th:*|Northern Colorado Hailstorm FC|5 Pts|3 GP|
-|*7th:*|Union Omaha|5 Pts|4 GP|
-|*8th:*|Richmond Kickers|5 Pts|4 GP|
-|*9th:*|One Knoxville SC|4 Pts|4 GP|
-|*10th:*|Lexington SC|4 Pts|5 GP|
-|*11th:*|Chattanooga Red Wolves SC|4 Pts|4 GP|
-|*12th:*|Central Valley Fuego FC|4 Pts|5 GP|
-
+|*1st:*|North Carolina FC|22 Pts|12 GP|
+|*2nd:*|Charlotte Independence|22 Pts|13 GP|
+|*3rd:*|Richmond Kickers|20 Pts|14 GP|
+|*4th:*|Northern Colorado Hailstorm FC|19 Pts|10 GP|
+|*5th:*|Forward Madison FC|19 Pts|12 GP|
+|*6th:*|One Knoxville SC|19 Pts|13 GP|
+|*7th:*|Greenville Triumph SC|16 Pts|13 GP|
+|*8th:*|South Georgia Tormenta FC|15 Pts|12 GP|
+|*9th:*|Lexington SC|13 Pts|12 GP|
+|*10th:*|Union Omaha|12 Pts|11 GP|
+|*11th:*|Chattanooga Red Wolves SC|11 Pts|12 GP|
+|*12th:*|Central Valley Fuego FC|10 Pts|12 GP|
 
 
 

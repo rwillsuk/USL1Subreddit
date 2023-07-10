@@ -28,22 +28,22 @@
 **USL League One Standings**
 
 
-***2023 Standings (as of 6/20/2023)***
+***2023 Standings (as of 7/10/2023)***
 
 |**Place**|**Team**|**Pts**|**GP**|
 |:-:|:-:|:-:|:-:|
-|*1st:*|North Carolina FC|23 Pts|13 GP|
-|*2nd:*|Charlotte Independence|22 Pts|13 GP|
-|*3rd:*|Richmond Kickers|20 Pts|14 GP|
-|*4th:*|Northern Colorado Hailstorm FC|19 Pts|10 GP|
-|*5th:*|Forward Madison FC|19 Pts|12 GP|
-|*6th:*|One Knoxville SC|19 Pts|13 GP|
-|*7th:*|Greenville Triumph SC|16 Pts|13 GP|
-|*8th:*|South Georgia Tormenta FC|15 Pts|12 GP|
-|*9th:*|Lexington SC|14 Pts|13 GP|
-|*10th:*|Union Omaha|12 Pts|11 GP|
-|*11th:*|Chattanooga Red Wolves SC|11 Pts|12 GP|
-|*12th:*|Central Valley Fuego FC|10 Pts|12 GP|
+|*1st:*|Forward Madison FC|28 Pts|16 GP|
+|*2nd:*|North Carolina FC|27 Pts|15 GP|
+|*3rd:*|Northern Colorado Hailstorm FC|26 Pts|13 GP|
+|*4th:*|Charlotte Independence|26 Pts|17 GP|
+|*5th:*|Richmond Kickers|24 Pts|17 GP|
+|*6th:*|Greenville Triumph SC|22 Pts|15 GP|
+|*7th:*|Union Omaha|22 Pts|15 GP|
+|*8th:*|One Knoxville SC|22 Pts|16 GP|
+|*9th:*|South Georgia Tormenta FC|18 Pts|15 GP|
+|*10th:*|Lexington SC|14 Pts|16 GP|
+|*11th:*|Chattanooga Red Wolves SC|13 Pts|16 GP|
+|*12th:*|Central Valley Fuego FC|10 Pts|15 GP|
 
 
 

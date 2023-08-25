@@ -28,20 +28,20 @@
 **USL League One Standings**
 
 
-***2023 Standings (as of 8/7/2023)***
+***2023 Standings (as of 8/25/2023)***
 
 |**Place**|**Team**|**Pts**|**GP**|
 |:-:|:-:|:-:|:-:|
-|*1st:*|North Carolina FC|37 Pts|19 GP|
-|*2nd:*|Northern Colorado Hailstorm FC|35 Pts|19 GP|
-|*3rd:*|Union Omaha|34 Pts|21 GP|
-|*4th:*|Charlotte Independence|33 Pts|22 GP|
-|*5th:*|Forward Madison FC|33 Pts|20 GP|
-|*6th:*|Greenville Triumph SC|32 Pts|20 GP|
-|*7th:*|Richmond Kickers|26 Pts|21 GP|
-|*8th:*|One Knoxville SC|25 Pts|22 GP|
-|*9th:*|South Georgia Tormenta FC|24 Pts|20 GP|
-|*10th:*|Lexington SC|21 Pts|21 GP|
-|*11th:*|Central Valley Fuego FC|17 Pts|19 GP|
-|*12th:*|Chattanooga Red Wolves SC|17 Pts|20 GP|
+|*1st:*|North Carolina FC|44 Pts|22 GP|
+|*2nd:*|Union Omaha|40 Pts|23 GP|
+|*3rd:*|Charlotte Independence|39 Pts|24 GP|
+|*4th:*|Northern Colorado Hailstorm FC|37 Pts|22 GP|
+|*5th:*|Greenville Triumph SC|36 Pts|23 GP|
+|*6th:*|Forward Madison FC|36 Pts|23 GP|
+|*7th:*|South Georgia Tormenta FC|31 Pts|24 GP|
+|*8th:*|One Knoxville SC|31 Pts|24 GP|
+|*9th:*|Richmond Kickers|27 Pts|24 GP|
+|*10th:*|Lexington SC|24 Pts|23 GP|
+|*11th:*|Chattanooga Red Wolves SC|20 Pts|24 GP|
+|*12th:*|Central Valley Fuego FC|17 Pts|22 GP|
 

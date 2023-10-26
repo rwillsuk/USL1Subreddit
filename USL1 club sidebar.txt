@@ -32,18 +32,22 @@
 
 |**Place**|**Team**|**Pts**|**GP**|
 |:-:|:-:|:-:|:-:|
-|*1st:*|North Carolina FC|47 Pts|24 GP|
-|*2nd:*|Northern Colorado Hailstorm FC|43 Pts|24 GP|
-|*3rd:*|Union Omaha|43 Pts|24 GP|
-|*4th:*|Charlotte Independence|40 Pts|26 GP|
-|*5th:*|Greenville Triumph SC|37 Pts|25 GP|
-|*6th:*|Forward Madison FC|37 Pts|25 GP|
-|*7th:*|One Knoxville SC|35 Pts|26 GP|
-|*8th:*|South Georgia Tormenta FC|32 Pts|26 GP|
-|*9th:*|Lexington SC|28 Pts|25 GP|
-|*10th:*|Richmond Kickers|28 Pts|26 GP|
-|*11th:*|Chattanooga Red Wolves SC|24 Pts|26 GP|
-|*12th:*|Central Valley Fuego FC|19 Pts|25 GP|
+|*1st:*|s-Union Omaha|65 Pts|32 GP|
+|*2nd:*|x-North Carolina FC|63 Pts|32 GP|
+|*3rd:*|x-Northern Colorado Hailstorm FC|62 Pts|32 GP|
+|*4th:*|x-Charlotte Independence|49 Pts|32 GP|
+|*5th:*|x-Greenville Triumph SC|48 Pts|32 GP|
+|*6th:*|x-Forward Madison FC|43 Pts|32 GP|
+|*7th:*|e-South Georgia Tormenta FC|42 Pts|32 GP|
+|*8th:*|e-One Knoxville SC|38 Pts|32 GP|
+|*9th:*|e-Lexington SC|32 Pts|32 GP|
+|*10th:*|e-Chattanooga Red Wolves SC|31 Pts|32 GP|
+|*11th:*|e-Richmond Kickers|29 Pts|32 GP|
+|*12th:*|e-Central Valley Fuego FC|23 Pts|32 GP|
+
+
+
+
 
 
 
